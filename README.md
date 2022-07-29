@@ -4,7 +4,7 @@ Project 1 : Determine and examine factors that play a significant role in increa
 
 **Project Task: Week 1**
 
-*Importing, Understanding, and Inspecting Data :**
+*Importing, Understanding, and Inspecting Data :*
 
 - Perform preliminary data inspection and report the findings as the structure of the data, missing values, duplicates, etc.
 
@@ -22,17 +22,17 @@ Project 1 : Determine and examine factors that play a significant role in increa
 
 - Study the composition of overall patients w.r.t . gender.
 
-#Project Task: Week 2
+**Project Task: Week 2**
 
-Performing EDA and Modeling:
+*Performing EDA and Modeling:*
 
-Describe the relationship between cholesterol levels and our target variable.
+- Describe the relationship between cholesterol levels and our target variable.
 
-What can be concluded about the relationship between peak exercising and occurrence of heart attack?
+- What can be concluded about the relationship between peak exercising and occurrence of heart attack?
 
-Is thalassemia a major cause of CVD? How are the other factors determining the occurrence of CVD?
+- Is thalassemia a major cause of CVD? How are the other factors determining the occurrence of CVD?
 
-Use a pair plot to understand the relationship between all the given variables.
+- Use a pair plot to understand the relationship between all the given variables.
 
-Perform logistic regression, predict the outcome for test data, and validate the results by using the confusion matrix.
+- Perform logistic regression, predict the outcome for test data, and validate the results by using the confusion matrix.
 
