@@ -1,5 +1,5 @@
 # Heart-Disease-Prediction-Diagnosis
-Capstone project from simplilearn - PREDICTION USING LOGISTIC REGRESSION.
+Capstone project from simplilearn - PREDICTION USING LOGISTIC REGRESSION.             
 Project 1 : Determine and examine factors that play a significant role in increasing the rate of heart attacks. Also, use the findings to create and predict a model .
 
 **Project Task: Week 1**
